@@ -1,0 +1,22 @@
+{
+  "name": "httphony",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barryels/httphony.git"
+  },
+  "author": "Barry Els <barryels@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barryels/httphony/issues"
+  },
+  "homepage": "https://github.com/barryels/httphony#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
